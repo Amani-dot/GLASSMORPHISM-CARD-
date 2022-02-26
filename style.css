@@ -96,7 +96,7 @@ p{
     font-weight: 300px;
 }
 
-a{
+button{
     position: relative;
     background-color: #fff;
     color: black;
@@ -104,6 +104,7 @@ a{
     padding: 10px 20px;
     border-radius: 15px;
     margin-top: 15px;
+    border: none;
     font-weight: 500;
     display: inline-block;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
